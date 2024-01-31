@@ -13,7 +13,7 @@ const Navbar = () => {
     };
     return (
         <>
-            <nav className="sticky flex items-center justify-between dark:bg-slate-800 dark:text-white px-6 lg:px-20 3xl:px-0 z-30 py-5 shadow-lg shadow-gray-600">
+            <nav className="relative flex items-center justify-between dark:bg-slate-800 dark:text-white px-6 lg:px-20 3xl:px-0 z-30 py-5 shadow-lg shadow-gray-600">
                 <Link href="/" className="w-auto flex flex-col items-center justify-center">
                     <Image src="/logo.png"
                     alt="Code Crafters Logo"
@@ -43,7 +43,7 @@ const Navbar = () => {
                     <svg
                     onClick={() => setTheme("light")}
                     xmlns="http://www.w3.org/2000/svg"
-                    className="h-10 w-10 text-orange-500 block"
+                    className="h-10 w-10 text-orange-500 block cursor-pointer"
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
@@ -59,7 +59,7 @@ const Navbar = () => {
                     <svg
                         onClick={() => setTheme("dark")}
                         xmlns="http://www.w3.org/2000/svg"
-                        className="h-10 w-10 text-orange-500 block"
+                        className="h-10 w-10 text-orange-500 block cursor-pointer"
                         fill="none"
                         viewBox="0 0 24 24"
                         stroke="currentColor"

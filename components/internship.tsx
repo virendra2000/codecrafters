@@ -7,8 +7,8 @@ const Internship = () => {
     return (
         <>
             <section className="p-2 h-auto dark:bg-slate-800 flex flex-col items-center justify-center md:justify-between w-[100%]" id="services">
-                <h1 className="p-2 text-3xl uppercase text-center font-bold text-orange-500 w-full">Services</h1>
-                <h3 className="text-md text-black dark:text-white font-bold">Empowering Your Learning Journey with Exceptional Offerings</h3>
+                <h1 className="p-2 text-3xl uppercase text-center font-bold text-orange-500 w-full">Internships</h1>
+                <h3 className="text-md text-black dark:text-white font-bold">Exploring Real-World Experience Through Dynamic Internships</h3>
                 <div className="p-3 md:p-5 services-container gap-3 flex flex-col md:flex-row md:flex-wrap md:items-center md:justify-between w-[100%]">
                 {INTERNSHIP_DETAIL.map((intern) => ( 
                     <div key={intern.key} className="service-box w-full h-[60vh] md:w-[30%] rounded-md md:p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">

@@ -48,7 +48,7 @@ const Footer = () => {
                   variant="mt-2 py-2 text-white dark:text-black font-bold border-0 rounded-full bg-orange-500 dark:bg-white"/>
             </div>
           </form>
-          <div className="flex items-center justify-between">
+          <div className="flex items-center justify-between h-auto w-auto">
             <Link href='https://www.linkedin.com/in/virendrakalwar/'>
               <div className="icon1 p-2 bg-white border-8 border-orange-500 rounded-full">
                 <Image src="/linkedin.gif"
@@ -58,7 +58,7 @@ const Footer = () => {
               </div>
             </Link>
             <Link href='https://www.instagram.com/codecipher_virendra/'>
-              <div className="icon1 p-2 bg-white border-8 border-orange-500 rounded-full">
+              <div className="icon2 p-2 bg-white border-8 border-orange-500 rounded-full">
                 <Image src="/instagram.gif"
                 alt="instagram"
                 width={60}
@@ -66,7 +66,7 @@ const Footer = () => {
               </div>
             </Link>
             <Link href='https://wa.me/message/CGOH3Q2CTWMXE1'>
-              <div className="icon1 p-2 bg-white border-8 border-orange-500 rounded-full">
+              <div className="icon p-2 bg-white border-8 border-orange-500 rounded-full">
                 <Image src="/Whatsapp.gif"
                 alt="whatsapp"
                 width={60}
