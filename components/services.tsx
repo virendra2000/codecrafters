@@ -5,9 +5,9 @@ const Services = () => {
         <>
             <section className="p-2 h-auto dark:bg-slate-800 flex flex-col items-center justify-center md:justify-between w-[100%]" id="services">
                 <h1 className="p-2 text-3xl uppercase text-center font-bold text-orange-500 w-full">Services</h1>
-                <h3 className="text-md text-black dark:text-white font-bold">Empowering Your Learning Journey with Exceptional Offerings</h3>
+                <h3 className="text-md text-black dark:text-white font-bold text-center">Empowering Your Learning Journey with Exceptional Offerings</h3>
                 <div className="p-3 md:p-5 services-container gap-3 flex flex-col md:flex-row md:flex-wrap md:items-center md:justify-between w-[100%]">
-                    <div className="service-box w-full h-[50vh] md:w-[30%] rounded-md md:p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
+                    <div className="service-box w-full h-[60vh] md:w-[30%] rounded-md md:p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
                         <Image src="/internship.png"
                         alt="SportsBuddy Logo"
                         width={80}
@@ -20,7 +20,7 @@ const Services = () => {
                             3. Skill enhancement and practical application of knowledge.<br/>
                         </p>
                     </div>
-                    <div className="service-box w-full h-[50vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
+                    <div className="service-box w-full h-[60vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
                         <Image src="/courses.png"
                         alt="SportsBuddy Logo"
                         width={70}
@@ -33,7 +33,7 @@ const Services = () => {
                             3. Gain valuable skills to excel in your chosen field.<br/>
                         </p>
                     </div>
-                    <div className="service-box w-full h-[50vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
+                    <div className="service-box w-full h-[60vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
                         <Image src="/app-development.png"
                         alt="SportsBuddy Logo"
                         width={80}
@@ -45,7 +45,7 @@ const Services = () => {
                             3. High-quality projects available for purchase.<br/>
                         </p>
                     </div>
-                    <div className="service-box w-full h-[50vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
+                    <div className="service-box w-full h-[60vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
                         <Image src="/events.png"
                         alt="SportsBuddy Logo"
                         width={70}
@@ -57,7 +57,7 @@ const Services = () => {
                             2. Exciting hackathon challenges to showcase your problem-solving skills.<br/>
                             3. Networking opportunities and recognition for top performers.<br/></p>
                     </div>
-                    <div className="service-box w-full h-[50vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
+                    <div className="service-box w-full h-[60vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
                         <Image src="/professiondev.png"
                         alt="SportsBuddy Logo"
                         width={80}
@@ -69,7 +69,7 @@ const Services = () => {
                             2. Practical insights from industry experts to stay ahead in your field.<br/>
                             3. Learn about current trends, best practices, and emerging technologies.</p>
                     </div>
-                    <div className="service-box w-full h-[50vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
+                    <div className="service-box w-full h-[60vh] md:w-[30%] rounded-md p-5 shadow-lg shadow-orange-500 dark:shadow-black mt-[10px] md:mt-[0px]">
                         <Image src="/messages.png"
                         alt="SportsBuddy Logo"
                         width={80}

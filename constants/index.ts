@@ -10,10 +10,10 @@ export const NAV_LINKS = [
 
 export const INTERNSHIP_DETAIL = [
   {
-    href:'/',
     key: 'web',
     alt: 'web_development',
     image_url: '/web.png',
+    internship: 'Web Development',
     title: 'Web Development Intern | Batch 3',
     detail1: 'Perks :',
     detail2: '1. Offer Letter',
@@ -23,10 +23,10 @@ export const INTERNSHIP_DETAIL = [
     type: 'Free',
   },
   {
-    href:'/',
     key: 'java',
     alt: 'java_development',
     image_url: '/java.png',
+    internship: 'Java Development',
     title: 'Java Development Intern | Batch 3',
     detail1: 'Perks :',
     detail2: '1. Offer Letter',
@@ -36,10 +36,10 @@ export const INTERNSHIP_DETAIL = [
     type: 'Free',
   },
   {
-    href:'/',
     key: 'python',
     alt: 'python_development',
     image_url: '/python.png',
+    internship: 'Python Development',
     title: 'Python Development | Batch 3',
     detail1: 'Perks :',
     detail2: '1. Offer Letter',
@@ -49,10 +49,10 @@ export const INTERNSHIP_DETAIL = [
     type: 'Free',
   },
   {
-    href:'/',
     key: 'dsml',
     alt: 'dsml',
-    image_url: '/dsml.jpg',
+    image_url: '/dsml.png',
+    internship: 'Data Science & Machine Learning',
     title: ' Data Science & Machine Learning Intern | Batch 3',
     detail1: 'Perks :',
     detail2: '1. Offer Letter',

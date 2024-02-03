@@ -20,21 +20,21 @@ const Footer = () => {
         <div className="footer_link2">
           <span className="px-2 py-4 border-b-2 border-orange-500 dark:border-white font-bold text-orange-500">Our SIP</span>
           <ul className="py-4 flex flex-col">
-            <Link href='/privacypolicy' className="px-2 py-4 text-black dark:text-white hover:text-green-500 dark:hover:text-orange-500 font-bold">Web Development</Link>
-            <Link href='/termscondition' className="px-2 py-4 text-black dark:text-white hover:text-green-500 dark:hover:text-orange-500 font-bold">Python Development
+            <Link href='/privacypolicy' className="px-2 py-4 text-black dark:text-white hover:text-orange-500 dark:hover:text-orange-500 font-bold">Web Development</Link>
+            <Link href='/termscondition' className="px-2 py-4 text-black dark:text-white hover:text-orange-500 dark:hover:text-orange-500 font-bold">Python Development
             </Link>
-            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-green-500 dark:hover:text-orange-500 font-bold">Java Development</Link>
-            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-green-500 dark:hover:text-orange-500 font-bold">Data Science & Machine Learning</Link>
+            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-orange-500 dark:hover:text-orange-500 font-bold">Java Development</Link>
+            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-orange-500 dark:hover:text-orange-500 font-bold">Data Science & Machine Learning</Link>
           </ul>
         </div>
         <div className="footer_link3">
           <span className="px-2 py-4 border-b-2 border-orange-500 dark:border-white font-bold text-orange-500">Our Community</span>
           <ul className="py-4 flex flex-col">
-            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-green-500 dark:hover:text-orange-500 font-bold">FAQ</Link>
-            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-green-500 dark:hover:text-orange-500 font-bold">Help Center</Link>
-            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-green-500 dark:hover:text-orange-500 font-bold">Privacy Policy
+            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-orange-500 dark:hover:text-orange-500 font-bold">FAQ</Link>
+            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-orange-500 dark:hover:text-orange-500 font-bold">Help Center</Link>
+            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-orange-500 dark:hover:text-orange-500 font-bold">Privacy Policy
             </Link>
-            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-green-500 dark:hover:text-orange-500 font-bold">Terms & Conditions</Link>
+            <Link href='/' className="px-2 py-4 text-black dark:text-white hover:text-orange-500 dark:hover:text-orange-500 font-bold">Terms & Conditions</Link>
           </ul>
         </div>
         <div className="footer_container1 flex flex-col justify-center">
