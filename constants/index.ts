@@ -62,3 +62,30 @@ export const INTERNSHIP_DETAIL = [
     type: 'Free',
   },
 ];
+
+export const ANNOUNCEMENT_LIST = [
+  {
+    key: '1',
+    announcement_name : 'Code Crafters All Batch Task',
+    href:'/',
+    label: 'View Task',
+  },
+  {
+    key: '2',
+    announcement_name : 'Code Crafters All Batch Internship Completion Certificate',
+    href:'/',
+    label: 'View Certificate',
+  },
+  {
+    key: '3',
+    announcement_name : 'Code Crafters All Batch Best Performance Certificate',
+    href:'/',
+    label: 'View Certificate',
+  },
+  {
+    key: '4',
+    announcement_name : 'Code Crafters All Batch Offer Letter',
+    href:'/',
+    label: 'View',
+  }
+];

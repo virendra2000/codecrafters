@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/about</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/internship</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/services</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/announcement</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/contact</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/register</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/apply?internshipKey=web</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/apply?internshipKey=java</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/apply?internshipKey=python</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/apply?internshipKey=dsml</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/privacypolicy</loc>
+</url>
+<url>
+  <loc>http://codecrafterscommunity.vercel.app/termscondition</loc>
+</url>
+<url>
+  <loc></loc>
+</url>
+</urlset>
